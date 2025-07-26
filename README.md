@@ -8,7 +8,7 @@
 
 *DOMAIN*: Fronted Web Development. 
 
-*DURATION*: 8 WEEKS
+*DURATION*: 4 WEEKS
 
 *MENTOR*: NEELA SANTHOSH
 
